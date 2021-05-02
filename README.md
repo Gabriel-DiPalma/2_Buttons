@@ -1,2 +1,3 @@
 # 2_Buttons
-Code example using 2 buttons and 1 output div
+Code example using 2 buttons to output data to only one div.
+
